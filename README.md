@@ -27,7 +27,7 @@ The system is built upon a fine tuned BERT (Bidirectional Encoder Representation
 | Component | Technology |
 |---|---|
 | Language | Python |
-| Framework | PyTorch |
+| Framework | tensorflow |
 | Model Library | Hugging Face Transformers |
 | Deployment | Hugging Face Spaces |
 
