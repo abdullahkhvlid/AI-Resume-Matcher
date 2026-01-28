@@ -1,4 +1,4 @@
-# AI Powered Semantic Resume 
+# AI Powered Semantic Resume Intelligence Engine
 
 ## Executive Summary
 This project addresses the inherent limitations of traditional keyword based Applicant Tracking Systems (ATS). By leveraging a fine tuned BERT model, the system facilitates semantic matching between resumes and job descriptions, ensuring that context and intent are prioritized over simple string matching.
